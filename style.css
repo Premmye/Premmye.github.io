@@ -1,0 +1,36 @@
+.AllContent
+{
+    font-size: large;
+}
+
+.Welcome
+{
+    text-align: center;
+    font-style: italic;
+}
+
+.AllDivs
+{
+    margin-top: 100px;
+    display: flex;
+    flex-direction: row;
+    height: 100%;
+    width: 100%;
+
+}
+
+.Aboutme {
+    display: block;
+    word-wrap: break-word;
+    width: 25%;
+    height: 50%;
+
+}
+
+.Linguagens {
+    display: block;
+    margin-left: 25px;
+    width: 25%;
+    height: 50%;
+
+}
