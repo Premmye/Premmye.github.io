@@ -1,0 +1,24 @@
+/* Common */
+
+
+Body {
+    background-color: #F0F0F0;
+}
+
+
+
+/*         DIVS             */
+.Start {
+    text-align: center;
+}
+
+.MoreTexts > p{
+
+    margin-left: 25px;
+}
+
+.Lang {
+    position: absolute;
+    right: 0;
+    top: 0;
+}
